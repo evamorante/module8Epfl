@@ -1,4 +1,4 @@
-// exercice 20. module 8
+// exercice 20./part 1 module 8
 
 for (var i = 1; i<4; i = i + 1){
     if (i == 1){
