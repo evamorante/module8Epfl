@@ -1,7 +1,8 @@
 // exercice 20./part 2 module 8
 
 var i = 1;
-while ( i<4){
+while ( i<4) {
+    i = i + 1;
     if (i == 1){
     console.log(i.toString() + " step");
     }
