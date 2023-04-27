@@ -12,3 +12,5 @@ while ( i<4) {
 
 }
 console.log("Done !")
+
+// < que 4 --> donne 4 steps quand même WHY ??
