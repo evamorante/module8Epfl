@@ -40,3 +40,18 @@ while ( i<4) {
 
 }
 console.log("Done !")
+
+//and the right solution isssss : tadaaaaaaa :
+
+var i = 1;
+while ( i<4) {
+    if (i == 1){
+    console.log(i.toString() + " step");
+    }
+    else{
+    console.log(i.toString() + " steps");
+    }
+    i = i + 1;
+
+}
+console.log("Done !")
