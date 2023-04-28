@@ -1,4 +1,4 @@
-# exercice 22. module 8
+# exercice 23. module 8
 
 songs = ["Highway for Heaven", "Viens je t'emmène", "La corrida"]
 for x in range(4):
