@@ -1,9 +1,12 @@
-# exercice 23. module 8
+# test point 22. module 8
 
 songs = ["Highway for Heaven", "Viens je t'emmène", "La corrida"]
-for x in range(4):
-    print(songs[0])
+for x in range(3):
+    print(songs[x])
+# not the best solution
 
-for x in range(10):
-    print(songs[0,1])
-# TypeError: list indices must be integers or slices, not tuple
+for x in songs:
+    print(x) # no more an iterator - so could call it fruit or b or bloubiboulga
+             # the video in the point 22. to be seen again if not understood
+# could add some datas in the array, and it will always work...not with the previous code
+            
